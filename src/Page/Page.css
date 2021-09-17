@@ -21,6 +21,8 @@
     flex-direction:column;
     justify-content: center;
     align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .card img{
     margin-top: 10px;
