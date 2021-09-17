@@ -1,6 +1,6 @@
 import React from "react";
 import "./Page.css"
-import Guerra from './Genres/Action/img/donwload.jpg'
+import Guerra from './Genres/Action/img/react.png'
 
 
 export const Page = ()=>{

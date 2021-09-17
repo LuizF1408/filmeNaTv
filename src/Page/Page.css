@@ -6,7 +6,11 @@
 .header h1{
     text-align: center;
 }
-
+.movies{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .card{
 
     width: 300px;
