@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/filmeNaTv/static/css/main.114797be.chunk.css",
-    "main.js": "/filmeNaTv/static/js/main.86a6eb36.chunk.js",
-    "main.js.map": "/filmeNaTv/static/js/main.86a6eb36.chunk.js.map",
+    "main.css": "/filmeNaTv/static/css/main.27a83668.chunk.css",
+    "main.js": "/filmeNaTv/static/js/main.f9a33df0.chunk.js",
+    "main.js.map": "/filmeNaTv/static/js/main.f9a33df0.chunk.js.map",
     "runtime-main.js": "/filmeNaTv/static/js/runtime-main.e84dee4e.js",
     "runtime-main.js.map": "/filmeNaTv/static/js/runtime-main.e84dee4e.js.map",
     "static/js/2.06071eba.chunk.js": "/filmeNaTv/static/js/2.06071eba.chunk.js",
     "static/js/2.06071eba.chunk.js.map": "/filmeNaTv/static/js/2.06071eba.chunk.js.map",
     "index.html": "/filmeNaTv/index.html",
-    "static/css/main.114797be.chunk.css.map": "/filmeNaTv/static/css/main.114797be.chunk.css.map",
-    "static/js/2.06071eba.chunk.js.LICENSE.txt": "/filmeNaTv/static/js/2.06071eba.chunk.js.LICENSE.txt",
-    "static/media/guerradoamanha.108f52df.jpg": "/filmeNaTv/static/media/guerradoamanha.108f52df.jpg"
+    "static/css/main.27a83668.chunk.css.map": "/filmeNaTv/static/css/main.27a83668.chunk.css.map",
+    "static/js/2.06071eba.chunk.js.LICENSE.txt": "/filmeNaTv/static/js/2.06071eba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e84dee4e.js",
     "static/js/2.06071eba.chunk.js",
-    "static/css/main.114797be.chunk.css",
-    "static/js/main.86a6eb36.chunk.js"
+    "static/css/main.27a83668.chunk.css",
+    "static/js/main.f9a33df0.chunk.js"
   ]
 }
